@@ -13,6 +13,7 @@
     "expo": "~48.0.6",
     "expo-app-loading": "^2.1.1",
     "expo-status-bar": "~1.4.4",
+    "formik": "^2.2.9",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.71.3",
@@ -21,7 +22,8 @@
     "react-native-web": "~0.18.10",
     "react-navigation": "^4.4.4",
     "react-navigation-drawer": "^2.7.2",
-    "react-navigation-stack": "^2.10.4"
+    "react-navigation-stack": "^2.10.4",
+    "yup": "^1.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
